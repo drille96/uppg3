@@ -19,6 +19,7 @@ Krav på funktionalitet för betyg G
 Det program du skapar ska uppfylla följande krav på funktionalitet i programmet:
 
 Id för krav Kravbeskrivning
+
 IU3FG1
       Applikationen skall ha ett sammanhängande grafiskt gränssnitt (det vill säga
       ett huvud-fönster i form av ett JFrame-objekt och kan inte endast byggas upp
